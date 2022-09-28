@@ -22,8 +22,8 @@ function Projects() {
                 React, framer-motion, react-intersection-observer, styled-components
               </SkillsUsedDescription>
               <ProjectButtonContainer>
-                <a href='https://stonetreerecording.com' target='_blank' ><ProjectButton>Live Website</ProjectButton></a>
-                <a href='https://github.com/Demsmo/stonetree' target='_blank' ><ProjectButton>Github Link</ProjectButton></a>
+                <a href='https://stonetreerecording.com' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/Demsmo/stonetree' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
@@ -54,8 +54,8 @@ function Projects() {
                 Password : 1234
               </ProjectLogin>
               <ProjectButtonContainer>
-                <a href='https://frontend-movierevieww.herokuapp.com/' target='_blank' ><ProjectButton>Live Website</ProjectButton></a>
-                <a href='https://github.com/moviereview051/moviereview.git' target='_blank' ><ProjectButton>Github Link</ProjectButton></a>
+                <a href='https://frontend-movierevieww.herokuapp.com/' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/moviereview051/moviereview.git' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
@@ -84,8 +84,8 @@ function Projects() {
                 Password : 1234
               </ProjectLogin>
               <ProjectButtonContainer>
-                <a href='https://refreshdrinksfrontend.herokuapp.com/' target='_blank' ><ProjectButton>Live Website</ProjectButton></a>
-                <a href='https://github.com/Demsmo/refreshdrinks.git' target='_blank' ><ProjectButton>Github Link</ProjectButton></a>
+                <a href='https://refreshdrinksfrontend.herokuapp.com/' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/Demsmo/refreshdrinks.git' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
@@ -117,8 +117,8 @@ function Projects() {
                 Password : 1234
               </ProjectLogin>
               <ProjectButtonContainer>
-                <a href='https://deming-twitterclone.herokuapp.com/' target='_blank' ><ProjectButton>Live Website</ProjectButton></a>
-                <a href='https://github.com/Demsmo/TwitterClone.git' target='_blank' ><ProjectButton>Github Link</ProjectButton></a>
+                <a href='https://deming-twitterclone.herokuapp.com/' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/Demsmo/TwitterClone.git' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
