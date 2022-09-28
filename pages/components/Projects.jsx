@@ -92,7 +92,7 @@ function Projects() {
           {/* TWITTER CLONE PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='Deming:twitter.mov'/>
+              <ProjectVideo autoplay muted controls src='/deming-twitter.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>Twitter Clone</ProjectTitle>

@@ -22,7 +22,7 @@ export const AboutMeContainer = styled.div`
     
 `
 
-export const AboutMe = styled.h3`
+export const AboutMe = styled.p`
     font-size: 25px;
     margin: 10px;
 

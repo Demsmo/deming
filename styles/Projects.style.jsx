@@ -16,7 +16,7 @@ export const InnerProjectContainer = styled.div`
 `
 
 export const ProjectContainerTitle = styled.h1`
-    margin: 25px;
+    margin: 40px;
 `
 
 export const ProjectCard = styled.div`

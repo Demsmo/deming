@@ -4,7 +4,7 @@ import Top from './components/Home'
 import About from './components/About'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
-import { Seperator } from '../styles/Index.style'
+import { Seperator, SiteContainer } from '../styles/Index.style'
 
 
 export default function Home() {
@@ -16,20 +16,23 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar />
-      
-      <Seperator id='home' />
-      <Top />
-      
-      <Seperator id='about' />
-      <About />
+      <SiteContainer>
+        <Navbar />
 
-      <Seperator id='projects' />
-      <Projects />
+        <Seperator id='home' />
+        <Top />
 
-      <Seperator id='contact' />
-      <Contact />
-      
+        <Seperator id='about' />
+        <About />
+
+        <Seperator id='projects' />
+        <Projects />
+
+        <Seperator id='contact' />
+        <Contact />
+      </SiteContainer>
+
+
     </div>
   )
 }
