@@ -117,7 +117,7 @@ function Projects() {
                 Password : 1234
               </ProjectLogin>
               <ProjectButtonContainer>
-                <a href='https://deming-twitterclone.herokuapp.com/' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://TwitterClone-new.demsmo.repl.co ' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
                 <a href='https://github.com/Demsmo/TwitterClone.git' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
