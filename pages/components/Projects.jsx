@@ -9,7 +9,7 @@ function Projects() {
           {/* STONETREE PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='/stonetree.mov'/>
+              <ProjectVideo autoPlay muted controls playsInline src='/stonetree.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>stonetree.</ProjectTitle>
@@ -30,7 +30,7 @@ function Projects() {
            {/* TRIANGLE THE TREE THE FISH AND THE ELEPHANT PROJECT CARD */}
            <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='/the concept.mov'/>
+              <ProjectVideo autoPlay muted controls playsInline src='/the concept.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>the concept</ProjectTitle>
@@ -51,7 +51,7 @@ function Projects() {
           {/* SYNAMATIC PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='/synamatic screencapture (1).mov'/>
+              <ProjectVideo autoPlay muted controls playsInline src='/synamatic screencapture (1).mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>Synamatic</ProjectTitle>
@@ -83,7 +83,7 @@ function Projects() {
           {/* REFRESH DRINKS PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='/DemingSD.mp4'/>
+              <ProjectVideo autoPlay muted controls playsInline src='/DemingSD.mp4'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>Refresh Drinks</ProjectTitle>
@@ -113,7 +113,7 @@ function Projects() {
           {/* TWITTER CLONE PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
-              <ProjectVideo autoplay muted controls src='/deming-twitter.mov'/>
+              <ProjectVideo autoPlay muted controls playsInline src='/deming-twitter.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
               <ProjectTitle>Twitter Clone</ProjectTitle>
