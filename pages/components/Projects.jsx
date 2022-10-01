@@ -27,6 +27,27 @@ function Projects() {
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
+           {/* TRIANGLE THE TREE THE FISH AND THE ELEPHANT PROJECT CARD */}
+           <ProjectCard>
+            <VideoContainer>
+              <ProjectVideo autoplay muted controls src='/the concept.mov'/>
+            </VideoContainer>
+            <ProjectAboutcontainer>
+              <ProjectTitle>the concept</ProjectTitle>
+              <ProjectDescription>
+                Fun mini project made for the symbols used by stonetree. <br />
+                This website showcases React.js and framer-motion, built with styled-components.
+              </ProjectDescription>
+              <SkillsUsed>Skills Used</SkillsUsed>
+              <SkillsUsedDescription>
+                React, framer-motion, styled-components
+              </SkillsUsedDescription>
+              <ProjectButtonContainer>
+                <a href='https://www.thetrianglethetreethefishandtheelephant.com/' target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/Demsmo/theconcept' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
+              </ProjectButtonContainer>
+            </ProjectAboutcontainer>
+          </ProjectCard>
           {/* SYNAMATIC PROJECT CARD */}
           <ProjectCard>
             <VideoContainer>
