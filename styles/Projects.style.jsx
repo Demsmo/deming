@@ -55,6 +55,7 @@ export const ProjectTitle = styled.h2`
 
 export const ProjectDescription = styled.p`
     margin: 10px;
+    font-weight: 300;
 `
 
 export const SkillsUsed = styled.h3`
@@ -63,6 +64,7 @@ export const SkillsUsed = styled.h3`
 
 export const SkillsUsedDescription = styled.p`
     margin: 10px;
+    font-weight: 300;
 `
 
 export const ProjectLogin = styled.p`
