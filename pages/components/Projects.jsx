@@ -12,7 +12,7 @@ function Projects() {
               <ProjectVideo autoPlay muted controls playsInline loop src='/stonetree.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
-              <ProjectTitle>stonetree.</ProjectTitle>
+              <ProjectTitle>Stonetree.</ProjectTitle>
               <ProjectDescription>
                 Created for a real life business, <br /> stonetree. is a website that showcases 
                 stonetree.'s studios, services and engineers.
@@ -33,7 +33,7 @@ function Projects() {
               <ProjectVideo autoPlay muted controls playsInline loop src='/the concept.mov'/>
             </VideoContainer>
             <ProjectAboutcontainer>
-              <ProjectTitle>the concept</ProjectTitle>
+              <ProjectTitle>The Concept</ProjectTitle>
               <ProjectDescription>
                 Fun mini project made for the symbols used by stonetree. <br />
                 This website showcases React.js and framer-motion, built with styled-components.
