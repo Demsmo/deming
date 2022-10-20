@@ -12,7 +12,7 @@ function About() {
           I am a creative who has worked in the music industry running a recording studio for eight years, that has fallen in love with Web Development and coding. <br />
            <br />
            In my time spent at TECH I.S. I have discovered an intense passion for HTML/CSS/React.js and enjoy creating front end applications. <br />
-           Since graduating from TECH I.S. I have worked on two new projects, one my business (stonetree.) and this portfolio - <br />
+           Since graduating from TECH I.S. I have worked on two new projects, one for my business (stonetree.) and this portfolio - <br />
            During this time I have picked up new skills and am constantly learning. Those new skills include - <br />
            Next.js / styled-components / react-icons / framer-motion / react-intersection-observer <br />
            <br />
