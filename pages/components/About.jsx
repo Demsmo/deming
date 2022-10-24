@@ -8,7 +8,7 @@ function About() {
         <AboutTitle>About Me</AboutTitle>
         <AboutMeContainer>
           <AboutMe>
-          Entrepreneur, Father, Partner, and aspiring Web Developer - <br />
+          Web Developer, Entrepreneur, Father, and Partner - <br />
           I am a creative who has worked in the music industry running a recording studio for eight years, that has fallen in love with Web Development and coding. <br />
            <br />
            In my time spent at TECH I.S. I have discovered an intense passion for HTML/CSS/React.js and enjoy creating front end applications. <br />
