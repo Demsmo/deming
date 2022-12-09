@@ -21,7 +21,7 @@ export const ProjectContainerTitle = styled.h1`
 
 export const ProjectCard = styled.div`
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
     border: 1px solid black;

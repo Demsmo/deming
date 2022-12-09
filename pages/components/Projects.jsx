@@ -43,7 +43,7 @@ function Projects() {
               </SkillsUsedDescription>
               <ProjectButtonContainer>
                 <a href="/calculator/calculator" target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
-                <a href='https://github.com/Demsmo/stonetree' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
+                <a href='https://github.com/Demsmo/deming/tree/main/pages/calculator' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
