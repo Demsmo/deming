@@ -47,6 +47,7 @@ export const ProjectAboutcontainer = styled.div`
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
+    align-items: center;
 `
 
 export const ProjectTitle = styled.h2`

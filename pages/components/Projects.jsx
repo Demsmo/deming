@@ -27,6 +27,26 @@ function Projects() {
               </ProjectButtonContainer>
             </ProjectAboutcontainer>
           </ProjectCard>
+          {/* CALCULATOR PROJECT CARD */}
+          <ProjectCard>
+            <VideoContainer>
+              <ProjectVideo autoPlay muted controls playsInline loop src='/calculator video.mov'/>
+            </VideoContainer>
+            <ProjectAboutcontainer>
+              <ProjectTitle>Calculator</ProjectTitle>
+              <ProjectDescription>
+                Small calculator project for practice
+              </ProjectDescription>
+              <SkillsUsed>Skills Used</SkillsUsed>
+              <SkillsUsedDescription>
+                React.js | Styled-Components
+              </SkillsUsedDescription>
+              <ProjectButtonContainer>
+                <a href="/calculator/calculator" target='_blank' rel="noreferrer"><ProjectButton>Live Website</ProjectButton></a>
+                <a href='https://github.com/Demsmo/stonetree' target='_blank' rel="noreferrer"><ProjectButton>Github Link</ProjectButton></a>
+              </ProjectButtonContainer>
+            </ProjectAboutcontainer>
+          </ProjectCard>
            {/* TRIANGLE THE TREE THE FISH AND THE ELEPHANT PROJECT CARD */}
            <ProjectCard>
             <VideoContainer>
