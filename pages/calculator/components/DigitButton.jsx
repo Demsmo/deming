@@ -1,5 +1,5 @@
 import { ACTIONS } from "../calculator";
-import { Button } from "./calculator.style";
+import { Button } from "../../../styles/calculator.style";
 
 export default function DigitButton({ dispatch, digit }) {
     return (

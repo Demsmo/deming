@@ -1,5 +1,5 @@
 import { useReducer } from "react"
-import { Button, ButtonDouble, CalculatorContainer, CurrentOperand, OutputContainer, PreviousOperand } from "./components/calculator.style"
+import { Button, ButtonDouble, CalculatorContainer, CurrentOperand, OutputContainer, PreviousOperand } from "../../styles/calculator.style"
 import DigitButton from "./components/DigitButton"
 import OperationButton from "./components/OperationButton"
 
