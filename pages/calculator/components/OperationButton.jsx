@@ -1,4 +1,4 @@
-import { ACTIONS } from "./calculator";
+import { ACTIONS } from "../calculator";
 import { Button } from "./calculator.style";
 
 export default function OperationButton({ dispatch, operation }) {
