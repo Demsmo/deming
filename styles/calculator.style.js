@@ -42,10 +42,14 @@ const button = () => {
         padding: 5px;
         margin: 5px;
         background-color: #B179EB;
-        transition: transform .2s;
+        transition: transform .3s;
         &:hover {
             background-color: #CFB6EA;
             transform: scale(1.2)
+        }
+        &:active {
+            background-color: #CFB6EA;
+            transform: scale(.8)
         }
     `
 }
